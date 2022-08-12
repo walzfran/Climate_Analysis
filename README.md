@@ -23,15 +23,9 @@
 ![June Precipitation](https://github.com/walzfran/Climate_Analysis/blob/main/Resources/June_Prcp_Describe.png)
 ![December Precipitation](https://github.com/walzfran/Climate_Analysis/blob/main/Resources/Dec_Prcp_Describe.png)
 
+##### Looking at these, you can see that there are fewer days in December that have precipitation but there is a higer amount of precipitation for the max. I thought that when looking at precipitation it might be more helpful to see it on a graph, that way there is a visual element to it. Below are both graphs that I generated with the new queries, the first is June and the second is December. 
+![June Graph](https://github.com/walzfran/Climate_Analysis/blob/main/Resources/June_Prcp_Plot.png)
+![December Graph](https://github.com/walzfran/Climate_Analysis/blob/main/Resources/Dec_Prcp_Plot.png)
 
-
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-Deliverable 3 Requirements
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
+##### What I gather from these graphs is that although there is less rain in December, it seems to be harder more impactful rain which leads me to think that they are going to have stormier days which would detract from business levels. The rainfall in June is more frequent but smaller amounts which seems like it would be more like small periodic showers rather than storms. If it were me, I would go over a few other key months, like January, May and August so you can see a larger spread of the data and group them seasonally. I would do that to gauge whether it would benefit the business to lesser hours during the fall and winter months or to close all together in the cooler more rain heavy months. Overall, I don't think that there is a huge difference in either the temperature or the precipitation and Hawaii seems to be pretty temperate all year round, so a business like this would thrive in my opinion. But, it would be who of us to look at a few other months to break it down a bit more to W. Avy if he had any other concerns about the weather impacting business levels. 
 
